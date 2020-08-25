@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTCEngine", "DTCEngine\DTCEngine.csproj", "{A897CEE0-49A9-497E-94C0-D94D78B343CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3D3BE54E-746F-4C41-B084-9199EC8DDB53}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A897CEE0-49A9-497E-94C0-D94D78B343CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A897CEE0-49A9-497E-94C0-D94D78B343CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A897CEE0-49A9-497E-94C0-D94D78B343CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A897CEE0-49A9-497E-94C0-D94D78B343CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC4C0D2C-C5CE-4A5B-ABAC-FEC268D6F6D3}
+	EndGlobalSection
+EndGlobal
